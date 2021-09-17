@@ -1,6 +1,5 @@
 Staged
-Tracked
-Untracked
+Tracked-Untracked
 
 
 A - added

@@ -1,10 +1,10 @@
 Staged
 Tracked-Untracked
 
+commit from new branch 2
 
 A - added
 M- Modified
 R - renamed
-D - deleted
 
-commit from new branch 1
+commit 2 from new branch 1

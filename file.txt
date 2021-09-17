@@ -1,1 +1,9 @@
-Hii
+Staged
+Tracked
+Untracked
+
+
+A - added
+M- Modified
+R - renamed
+D - deleted
